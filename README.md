@@ -1,2 +1,3 @@
-# gravitec-solutions.github.io
-Gravitec Solutions
+# Gravitec Solutions
+
+Static website content
